@@ -23,7 +23,7 @@ I'm passionate about **AI, automation, software development, and new technologie
 
 ## 📫 Let's Connect
 
-- 💼 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/mayssa-ahmed-12ab59339/)
+- 💼 **LinkedIn:** [linkedin.com/in/Mayssa Ahmed](https://www.linkedin.com/in/mayssa-ahmed-12ab59339/)
 - 📧 **Email:** mayssaahmed2005@gmail.com
 
 ---

@@ -1,6 +1,6 @@
 # Hi, I'm Mayssa 👋
 
-🎓 **Computer Science Student at ISI** · 🤖 **AI Automation Enthusiast**
+🎓 **Computer Science Student at ISI** · 🤖 **AI Enthusiast**
 
 I'm passionate about **AI, automation, software development, and new technologies**. I enjoy building useful projects, experimenting with AI, and learning by creating.
 

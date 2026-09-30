@@ -14,7 +14,7 @@ I'm passionate about **AI, automation, software development, and new technologie
 
 ### 🛠️ Tech Stack
 
-`Python` · `PHP` · `JavaScript` · `Java` · `Tailwind CSS`  
+`Python` · `PHP` · `JavaScript` · `Java` · `C` · `Tailwind CSS` 
 `n8n` · `Supabase` · `PostgreSQL` · `Docker` · `LLMs` · `RAG`
 
 ### 📌 Currently Exploring
